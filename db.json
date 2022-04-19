@@ -1,0 +1,27 @@
+{
+   "Photo":[
+      {"id":"1","url":"https://raw.githubusercontent.com/Ahmed9866/test/main/a7002e59320c8993afec09e3ec6b4c7d.jpg"}
+      ],
+   "Students":[
+     {"id":"1","Name":"Ahmed","Age":"22"},
+     {"id":"2","Name":"Ibrahim","Age":"21"},
+     {"id":"3","Name":"shefaa","Age":"22"},
+     {"id":"4","Name":"Mariam","Age":"21"},
+     {"id":"5","Name":"Rahma","Age":"20"},
+     {"id":"6","Name":"Jannat","Age":"19"},
+     {"id":"7","Name":"Khalida","Age":"21"},
+     {"id":"8","Name":"Qubais","Age":"21"}
+   ],
+   "Techers":[
+     {"id":"1","Name":"Ammar Yaseen","Subject":"Mobile Applications"},
+     {"id":"2","Name":"Oguz Aranay","Subject":"Wireless Networks"},
+     {"id":"3","Name":"Ozlem Abd","Subject":"Distributed Systems"},
+     {"id":"4","Name":"Shahla Umar","Subject":"Network Simulation and Modeling"},
+     {"id":"5","Name":"Ibrahim Taha","Subject":"Degital Signal Proccessing"},
+     {"id":"6","Name":"Ibrahim Taha","Subject":"System Administration"}
+   ],
+   
+   "profile": {
+    "name": "MyServer"
+  }
+}
